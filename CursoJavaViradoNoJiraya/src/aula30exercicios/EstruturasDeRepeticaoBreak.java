@@ -26,8 +26,6 @@ public class EstruturasDeRepeticaoBreak {
                 System.out.println(parcela + "X  de R$"+valorPArcela);
             }
 
-
-
         }
 
     }
